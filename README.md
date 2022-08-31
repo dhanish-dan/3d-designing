@@ -1,9 +1,9 @@
 # 3d-designing
 3d-designing in #blender
 
-iam D.Dhanish
+iam D.Dhanish;
 
-the designer
+the designer;
 
 Contact me at:dhanishdhanish6666@gmail.com
 
